@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/Settings.java
+END
+SettingsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/SettingsScreen.java
+END
+Assets.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/Assets.java
+END
+Ship.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/Ship.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/World.java
+END
+Invader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/Invader.java
+END
+Shield.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/Shield.java
+END
+GameScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/GameScreen.java
+END
+MainMenuScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/MainMenuScreen.java
+END
+DroidInvaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/DroidInvaders.java
+END
+Shot.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/Shot.java
+END
+WorldRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/droidinvaders/WorldRenderer.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl
+END
+SpriteBatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/SpriteBatcher.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Texture.java
+END
+ObjLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/ObjLoader.java
+END
+LookAtCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/LookAtCamera.java
+END
+TextureRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/TextureRegion.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Font.java
+END
+AmbientLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/AmbientLight.java
+END
+SpatialHashGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/SpatialHashGrid.java
+END
+Vertices3.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Vertices3.java
+END
+Light.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Light.java
+END
+Camera2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Camera2D.java
+END
+VBOVertices3.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/VBOVertices3.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Animation.java
+END
+PointLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/PointLight.java
+END
+Vertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Vertices.java
+END
+DirectionalLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/DirectionalLight.java
+END
+EulerCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/EulerCamera.java
+END
+FPSCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/FPSCounter.java
+END
+MipMappedTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/MipMappedTexture.java
+END
+Material.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/src/com/badlogic/androidgames/framework/gl/Material.java
+END

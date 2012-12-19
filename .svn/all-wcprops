@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/21/trunk/ch12-droidinvaders
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/ch12-droidinvaders/AndroidManifest.xml
+END
